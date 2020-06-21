@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1589410919 source:/home/salah/Desktop/OS Assignment_2/Code/OS Assignment_2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589597029 source:c:\users\ahmed\desktop\os assignment\code\os assignment_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589634671 source:c:\users\ahmed\desktop\os assignment_2\code\os assignment_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
